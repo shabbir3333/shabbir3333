@@ -1,4 +1,4 @@
-👋 Hi, I’m @shabbir3333
+👋 Hi, I’m @shabbir
 
 👀 I’m interested in data science, machine learning, and AI applications.
 
